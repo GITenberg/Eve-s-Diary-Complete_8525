@@ -1,0 +1,41 @@
+_repo: Eve-s-Diary-Complete_8525
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Ralph, Lester
+    gutenberg_agent_id: '4488'
+    url: http://www.gutenberg.org/2009/agents/4488
+covers:
+- cover_type: archival
+  image_path: 8525/8525-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Twain, Mark (Samuel Clemens)
+    - Clemens, Samuel Langhorne
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: Eve's diary -- After the fall -- Forty years later -- At Eve's grave.
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8525'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Bible. Genesis -- History of Biblical events -- Fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Diary fiction'
+- !lcsh 'Eve (Biblical figure) -- Fiction'
+- GITenberg
+title: Eve's Diary, Complete
+url: http://www.gutenberg.org/ebooks/8525
